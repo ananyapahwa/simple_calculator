@@ -19,7 +19,7 @@ def divide(a: float, b: float) -> float:
 
 def get_welcome_message() -> str:
     # This function is used to create intentional merge conflicts across branches
-    return "=== Simple Calculator CLI v1.0 ==="
+    return "=== Welcome to Ultra Calculator Pro (v2.0 Modern) ==="
 
 if __name__ == "__main__":
     print(get_welcome_message())
